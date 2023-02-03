@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Noman Ahmed khan
-- 👀 I’m interested in MERN, MEAN, .NET, AWS, CLOUD AND DATABASE, Blockchain AND Complex Problem Solving 
+- 👀 I’m interested in MERN, MEAN, .NET, AWS, AZURE, CLOUD AND DATABASE, Blockchain AND Complex Problem Solving 
 - 🌱 I’m currently learning Blockchain and preparing for AWS Associate Solutions Architect and AWS Cloud Practitioner program 
-- 💞️ I’m looking to collaborate on several projects related to Reactjs
+- 💞️ I’m looking to collaborate on several projects related to Reactjs, .Net Core and Angluar
 
 <!---
 nomanahmed-tp/nomanahmed-tp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
